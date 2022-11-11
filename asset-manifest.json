@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/converter/static/js/main.c263c8d4.js",
+    "static/js/787.9e61e6d0.chunk.js": "/converter/static/js/787.9e61e6d0.chunk.js",
+    "index.html": "/converter/index.html",
+    "main.c263c8d4.js.map": "/converter/static/js/main.c263c8d4.js.map",
+    "787.9e61e6d0.chunk.js.map": "/converter/static/js/787.9e61e6d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c263c8d4.js"
+  ]
+}
